@@ -1,5 +1,5 @@
 # 3D Portfolio
-# status - Incomplete 
+# STATUS - Incomplete 
 Welcome to my 3D portfolio! This project showcases my work in a visually engaging 3D environment built using Three.js, JavaScript, and CSS.(learning)
 
 ## Features
@@ -16,12 +16,8 @@ Welcome to my 3D portfolio! This project showcases my work in a visually engagin
 - **CSS**: Used for styling and customization of the portfolio layout and design.
 
 ## Setup
-
-To set up the project locally, follow these steps:
-
 **Will update soon**
 
-That's it! You should now be able to view the 3D portfolio in your browser.
 
 ## Usage
 
