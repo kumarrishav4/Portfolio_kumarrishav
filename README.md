@@ -1,7 +1,15 @@
 # 3D Portfolio
 # STATUS - Incomplete 
 [WEBPAGE](https://kumarrishav4.github.io/3js_portfolio_kumarrishav/)
-Welcome to my 3D portfolio! This project showcases my work in a visually engaging 3D environment built using Three.js, JavaScript, and CSS.(learning)
+Welcome to my 3D portfolio! This project showcases my work in a visually engaging 3D environment built using Three.js, JavaScript, Vite and CSS.(learning)
+
+## Running with Local host
+- Scrollable HOmepage
+- ![image](https://github.com/kumarrishav4/3js_portfolio_kumarrishav/assets/94125350/52fb6438-4b65-4a62-a7e9-5a01dfa6a20d)
+- ![image](https://github.com/kumarrishav4/3js_portfolio_kumarrishav/assets/94125350/1c282cb5-0106-4d15-8f48-fc883459712d)
+- Contact Page
+- ![image](https://github.com/kumarrishav4/3js_portfolio_kumarrishav/assets/94125350/57421314-afd0-40af-aed0-b95eec0a879d)
+
 
 ## Features
 
@@ -15,6 +23,7 @@ Welcome to my 3D portfolio! This project showcases my work in a visually engagin
 - **Three.js**: A JavaScript library used to create and display animated 3D computer graphics in a web browser.
 - **JavaScript**: The primary programming language used for interactivity and functionality.
 - **CSS**: Used for styling and customization of the portfolio layout and design.
+- **Vite**:  Used to configure a development environment for Vue, TezJS or React framework.
 
 ## Setup
 **Will update soon**
@@ -23,7 +32,7 @@ Welcome to my 3D portfolio! This project showcases my work in a visually engagin
 ## Usage
 
 - **Navigation**: Use mouse controls or touch gestures to navigate around the 3D space.
-- **Interactivity**: Click on projects or elements within the portfolio to interact with them.
+- **Interactivity**: Interactive animation 3D animations.
 - **Customization**: Modify the CSS files to customize the appearance of the portfolio according to your preferences.
 
 
