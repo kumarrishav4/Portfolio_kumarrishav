@@ -65,18 +65,18 @@ const Contact = () => {
     };
   return (
 
-    <section className='absolute top-28 left-0 right- z-10 flex items -inset-1 justify-center'>
+    <section className="absolute top-28 left-0 right- z-10 flex items -inset-1 justify-center">
 
         {alert.show && <Alert{...alert}/>}
         <div >
-            <h1 className='top-28' >.</h1>
+            <h1 className="top-28" ></h1>
         </div>
 
-        <section className='relative flex lg:flex-row flex-col max-continer h-[100vh]'>
-            <div className='flex-1 min-w-[50%] flex flex-col'>
-                <h1 className='head-text ' >Get in Touch</h1>
+        <section className="relative flex lg:flex-row flex-col max-continer h-[100vh]">
+            <div className="flex-1 min-w-[50%] flex flex-col gap-6">
+                <h1 className="head-text" >Get in Touch</h1>
                 <form
-                className='w-full flex flex-col gap-7 mt-14'
+                className="w-full flex flex-col gap-7 mt-14"
                 onSubmit={handleSubmit}>
                     <label className='text-black-500 font-semibold'>
                         Name
